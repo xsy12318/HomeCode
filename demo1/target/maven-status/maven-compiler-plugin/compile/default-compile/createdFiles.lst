@@ -1,0 +1,5 @@
+com\example\MyApp.class
+com\example\service\AccessService.class
+com\example\bean\UserAccess.class
+com\example\controller\AdminController.class
+com\example\controller\UserController.class
